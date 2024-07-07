@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 22 year undergraduate student from [School of xhu](http://www.xhu.edu.cn/), [Peking University](http://www.xhu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
-
+I'm a 22 year undergraduate student from [School of xhu](http://www.xhu.edu.cn/), [xhu University](http://www.xhu.edu.cn/). I am a software engineering student with a keen interest in software development, especially the Java language.
 [Email](3345246070@qq.com) / [Github](https://github.com/ljc5665) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/chenxuyuanli?spm=1011.2480.3001.5343)
 
